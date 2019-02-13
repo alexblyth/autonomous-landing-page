@@ -17,3 +17,7 @@ Labs are found at: [Autonomous Transaction Processing Workshop](https://alexblyt
 This workshop provides an overview of the Autonomous Data Warehouse service in Oracle Cloud Infrastructure. You will create your own ADW Database via the console, load and query data, and deploy Oracle Analytics Cloud (or Oracle Data Visualisation Desktop) to further analyse and visualise data. Additional labs showcasing the Machine Learning and notebook capabilities.
 
 Labs are found at: [Autonomous Data Warehouse Workshop](https://alexblyth.github.io/)
+
+
+
+## Contact Details - <a href="mailto:alex.blyth@oracle.com;jason.grogan@oracle.com;darryn.hinnet@oracle.com?cc=michael.charbonnier@oracle.com&subject=Autonomous Database -ATP and ADW - Workshop Questions)">Connect with the team</a>
